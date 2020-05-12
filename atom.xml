@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿橘的技术波</title>
   
-  
+  <subtitle>碎碎念小空间</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://heeej.github.io/"/>
   <updated>2020-05-06T02:40:55.265Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://heeej.github.io/</id>
   
   <author>
     <name>Jiafang He 何佳芳</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>从零开始搭建Hexo+Github个人博客</title>
-    <link href="http://yoursite.com/2020/05/06/Hexo-Building/"/>
-    <id>http://yoursite.com/2020/05/06/Hexo-Building/</id>
+    <link href="http://heeej.github.io/2020/05/06/Hexo-Building/"/>
+    <id>http://heeej.github.io/2020/05/06/Hexo-Building/</id>
     <published>2020-05-06T02:23:49.000Z</published>
     <updated>2020-05-06T02:40:55.265Z</updated>
     
@@ -35,19 +35,19 @@
     </summary>
     
     
-      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="http://heeej.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://heeej.github.io/tags/Hexo/"/>
     
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+      <category term="Markdown" scheme="http://heeej.github.io/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/05/hello-world/"/>
-    <id>http://yoursite.com/2020/05/05/hello-world/</id>
+    <link href="http://heeej.github.io/2020/05/05/hello-world/"/>
+    <id>http://heeej.github.io/2020/05/05/hello-world/</id>
     <published>2020-05-05T02:22:04.671Z</published>
     <updated>2020-05-05T02:22:04.671Z</updated>
     
